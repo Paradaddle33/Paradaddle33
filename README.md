@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Paradaddle33, I'm an aspiring new programmer.
-- 👀 I’m interested in any new web/game development. Im attmepting to get my foot in the door.
-- 🌱 I’m currently learning HTML, CSS, JS, etc.
-- 💞️ I’m looking to collaborate on new projects at "entry" level.
+- 👋 Hi, I’m @Paradaddle33, I'm an aspiring new programmer for web/game development.
+- 👀 I’m interested in any new web/game development projects. I'm lending support and assistance until I'm ready to lead.
+- 🌱 I’m currently learning HTML, CSS, JS, Unity, etc.
+- 💞️ I’m looking to collaborate on new projects at "entry" level. I can contribute as I learn.
 - 📫 How to reach me scwmanno@gmail.com
 
 <!---
